@@ -5,8 +5,8 @@
 - 👨‍💻 Personel website [halilatilla.com](halilatilla.com)
 
 - 📝 I regulary write articles on [https://medium.com/@atillahalil0](https://medium.com/@atillahalil0)
-<b/>
-<b/>
+<p/>
+<p/>
 
 <p align="left">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
