@@ -5,10 +5,9 @@
 - 👨‍💻 Personel website [halilatilla.com](halilatilla.com)
 
 - 📝 I regulary write articles on [https://medium.com/@atillahalil0](https://medium.com/@atillahalil0)
-<p/>
+
 <p/>
 
-<p align="left">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
@@ -42,9 +41,7 @@
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </p>
 
-<b/>
-<b/>
-<b/>
+<p/>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halilatilla&layout=compact&hide=html" alt="halilatilla" /></p>
 
