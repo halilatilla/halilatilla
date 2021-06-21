@@ -1,7 +1,3 @@
-
-<h1 align="center">Hi 👋, I'm Halil Atilla</h1>
-<h3 align="center">Just a curious 🕵️‍♂️  frontend developer 💻</h3>
-
 - 👨‍💻 Personel website [halilatilla.com](halilatilla.com)
 
 - 📝 I regulary write articles on [https://medium.com/@atillahalil0](https://medium.com/@atillahalil0)
