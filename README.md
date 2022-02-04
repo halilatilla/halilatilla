@@ -60,10 +60,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halilatilla&layout=compact&hide=html" alt="halilatilla" /></p>
 
-<p/>
-<br/>
-<p>
-<a href="https://twitter.com/@halilatilla10" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="@halilatilla10" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/halil-atilla-838129151/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="halil-atilla-838129151/" height="30" width="30" /></a>
-<a href="https://medium.com/@atillahalil0" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" alt="@atillahalil0" height="30" width="30" /></a>
-</p>
