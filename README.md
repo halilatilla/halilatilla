@@ -1,7 +1,7 @@
-- 👨‍💻 Personel website [halilatilla.com](halilatilla.com)
 
-- 📝 I regulary write articles on [https://medium.com/@atillahalil0](https://medium.com/@atillahalil0)
-
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@atillahalil0)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/HalilAtilla10)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/halil-atilla-838129151/)
 
 ---
 
