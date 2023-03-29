@@ -58,3 +58,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halilatilla&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 
+---
+
+📝 My Latest Blog Post in Medium
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@atillahalil0/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@atillahalil0/0" alt="Recent Article 0"> 
+
