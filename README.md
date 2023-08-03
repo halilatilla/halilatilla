@@ -5,5 +5,5 @@
 </p>
 
  ### <p align="center">👋 I'm a `frontend developer` who loves `coding`.
- <p align="center"> I'm always eager to collaborate and learn new things, so don't hesitate to get in touch! 
- <p align="center"> 💬 Enjoy your visit and happy coding! 💻
+ <p align="center"> I'm always eager to collaborate and learn new things, so don't hesitate to get in touch! 💬 
+ <p align="center"> Enjoy your visit and happy coding! 💻
